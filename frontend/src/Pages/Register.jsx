@@ -1,5 +1,5 @@
 import { Box, Flex, Image, Text } from "@chakra-ui/react";
-import RegisterForm from "../Components/RegisterForm";
+import RegisterForm from "../Component/RegisterForm";
 
 const Register = () => {
   return (

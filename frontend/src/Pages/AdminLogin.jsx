@@ -1,6 +1,6 @@
 import { Box, Flex, Image, Text } from "@chakra-ui/react";
 
-import AdminLoginForm from "../Components/AdminLoginForm";
+import AdminLoginForm from "../Component/AdminLoginForm";
 
 
 const AdminLogin = () => {

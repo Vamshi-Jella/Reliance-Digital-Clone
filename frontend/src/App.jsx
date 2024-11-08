@@ -1,9 +1,9 @@
 import { useEffect, useState } from "react";
-import Footer from "./Components/Footer";
-import Loader from "./Components/Loader";
-import { Navbar } from "./Components/Navbar";
+import Footer from "./Component/Footer";
+import Loader from "./Component/Loader";
+import { Navbar } from "./Component/Navbar";
 
-import AllRoutes from "./Routers/AllRoutes";
+import AllRoutes from "./Routes/AllRoutes";
 
 function App() {
   const [isLoading, setIsLoading] = useState(true);
